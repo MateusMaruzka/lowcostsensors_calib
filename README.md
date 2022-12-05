@@ -1,4 +1,4 @@
-# lowcostsensors_tensorflow
+# Calibração de sensores eletroquímicos de baixo custo
 
 ## Scikit-learn
 <a target="_blank" href="https://colab.research.google.com/github/MateusMaruzka/lowcostsensors_calib/blob/main/calib_lowcostsensors_sklearn.ipynb">
